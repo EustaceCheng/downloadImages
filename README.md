@@ -1,2 +1,7 @@
 # downloadImages
-get image from web
+
+### Usage
+
+```
+python3 main.py
+```
